@@ -1,0 +1,14 @@
+.botaoCriarEvento {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    color: #212121;
+    padding: 8px 16px;
+    background-color: #17D9B1;
+    border-radius: none;
+}
+
+.botaoCriarEvento:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
